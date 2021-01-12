@@ -2,9 +2,9 @@
 #EXTINF:-1,香港
 https://iptv-org.github.io/iptv/countries/hk.m3u
 #EXTINF:-1,台湾
-ttps://iptv-org.github.io/iptv/countries/tw.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
 EXTINF:-1,中国
-ttps://iptv-org.github.io/iptv/countries/cn.m3u
+https://iptv-org.github.io/iptv/countries/cn.m3u
 EXTINF:-1,新加坡
 https://iptv-org.github.io/iptv/countries/sg.m3u
 #EXTINF:-1,日本
