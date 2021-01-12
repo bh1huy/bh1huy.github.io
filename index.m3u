@@ -17,3 +17,5 @@ https://iptv-org.github.io/iptv/countries/kr.m3u
 https://iptv-org.github.io/iptv/countries/uk.m3u
 #EXTINF:-1,美国(United States)
 https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF:-1,HomeNet
+https://homenet6.github.io/list.m3u
