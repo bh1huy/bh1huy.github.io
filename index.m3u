@@ -2,4 +2,16 @@
 #EXTINF:-1,香港
 https://iptv-org.github.io/iptv/countries/hk.m3u
 #EXTINF:-1,台湾
-https://iptv-org.github.io/iptv/countries/tw.m3u
+ttps://iptv-org.github.io/iptv/countries/tw.m3u
+EXTINF:-1,中国
+ttps://iptv-org.github.io/iptv/countries/cn.m3u
+EXTINF:-1,新加坡
+https://iptv-org.github.io/iptv/countries/sg.m3u
+#EXTINF:-1,日本
+https://iptv-org.github.io/iptv/countries/jp.m3u
+#EXTINF:-1,南韩
+https://iptv-org.github.io/iptv/countries/kr.m3u
+#EXTINF:-1,英国
+https://iptv-org.github.io/iptv/countries/uk.m3u
+#EXTINF:-1,美国
+https://iptv-org.github.io/iptv/countries/us.m3u
