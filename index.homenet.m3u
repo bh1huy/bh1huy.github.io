@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,家庭网络资源分享(HomeNet)-list.m3u
+#EXTINF:-1,家庭网络资源分享(https://github.com/homenet6/homenet6.github.io)-list.m3u
 https://homenet6.github.io/list.m3u
-#EXTINF:-1,家庭网络资源分享(HomeNet)-add.txt
+#EXTINF:-1,家庭网络资源分享(https://github.com/homenet6/homenet6.github.io)-add.txt
 https://homenet6.github.io/add.txt
