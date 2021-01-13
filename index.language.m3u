@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 中文(Chinese)
+https://iptv-org.github.io/iptv/languages/zho.m3u
+#EXTINF:-1 粤语(Yue Chinese)
+https://iptv-org.github.io/iptv/languages/yue.m3u
+#EXTINF:-1 英文(English)
+https://iptv-org.github.io/iptv/languages/eng.m3u
