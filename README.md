@@ -1,5 +1,3 @@
-# bh1huy.github.io
-
 缩写|英文|中文|备注
 :--: | -- | -- | --
 AD|Andorra|安道尔|
