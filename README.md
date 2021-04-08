@@ -110,8 +110,8 @@ KH|Cambodia|柬埔寨|
 KI|Kiribati|基里巴斯|
 KM|The comoros|科摩罗|
 KN|Saint Kitts and nev|圣基茨和尼维斯|
-KP|Korea, Democratic Pe|朝鲜|
-KR|Korea, Republic of|韩国|
+KP|Korea, Democratic Pe|朝鲜|Democratic Pe Korea
+KR|Korea, Republic of|韩国|Republic of Korea
 KW|Kuwait|科威特|
 KY|CAYMAN ISLANDS|开曼群岛|
 KZ|Kazakhstan|哈萨克斯坦|
@@ -177,7 +177,7 @@ QA|Qatar|卡塔尔|
 RE|Reunion|留尼汪|
 RO|Romania|罗马尼亚|
 RS|Serbia|塞尔维亚|
-RU|Russia|俄罗斯|
+RU|Russia|俄罗斯|Russian Federation
 RW|Rwanda|卢旺达|
 SA|Saudi Arabia|沙特阿拉伯|
 SB|Solomon Islands|所罗门群岛|
@@ -208,11 +208,11 @@ TO|Tonga|汤加|
 TR|Turkey|土耳其|
 TT|Trinidad and Tobago|特立尼达和多巴哥|
 TV|Tuvalu|图瓦卢|
-TW|TAIWAN|台湾|
+TW|TAIWAN|台湾|Taiwan, Province of China
 TZ|Tanzania|坦桑尼亚|
 UA|Ukraine|乌克兰|
 UG|Uganda|乌干达|
-US|United States|美国|
+US|United States|美国|United States of America
 UY|Uruguay|乌拉圭|
 UZ|Uzbekistan|乌兹别克斯坦|
 VC|Saint Vincent and t|圣文森特和格林纳丁斯|
