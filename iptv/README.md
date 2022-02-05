@@ -29,7 +29,7 @@
 - [x] [哔嘀影视](https://www.btbdys.com/)
 - [x] [91美剧](https://mjw91.com/)（需翻墙）
 
-#### 猫影视
+#### 猫影视TV
 
-1. [catvod](https://github.com/catvod)/**[CatVodTVSpider](https://github.com/catvod/CatVodTVSpider)**
+1. [catvod](https://github.com/catvod)/**[CatVodTVSpider](https://github.com/catvod/CatVodTVSpider)**：官方**猫影视TV**
 2. [Mxy](https://gitee.com/mxyseo) / **[猫TV影视自定义接口](https://gitee.com/mxyseo/cat-tv)**：猫TV影视自定义接口
