@@ -203,7 +203,7 @@ rtp://239.3.1.148:8072
 rtp://239.3.1.58:8156
 #http://39.135.138.59:18890/PLTV/88888910/224/3221226198/index.m3u8
 
-#EXTINF:-1 tvg-id="691" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title=卫视频道,纪实人文[高清]
+#EXTINF:-1 tvg-id="691" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title=卫视频道,纪实人文[高清]
 rtp://239.3.1.212:8060
 #http://39.135.138.58:18890/TVOD/88888888/224/3221225654/index.m3u8
 
@@ -221,9 +221,9 @@ http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="未分类",纯享4K 21M2160HDR
 ##http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
 
-#EXTINF:-1 group-title="未分类",CNC中文
+#EXTINF:-1 group-title="未分类" tvg-logo="http://www.tvyan.com/uploads/dianshi/cnc.jpg",CNC中文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 group-title="未分类",CNC英文
+#EXTINF:-1 group-title="未分类" tvg-logo="http://www.tvyan.com/uploads/dianshi/cnc.jpg",CNC英文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 #EXTINF:-1 ------------------------------------------------------------ 分割线 ------------------------------------------------------------
@@ -276,7 +276,7 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 #EXTINF:-1 tvg-name=快乐垂钓 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title=湖南卫视,快乐垂钓[高清]
 rtp://239.3.1.164:8001
 
-#EXTINF:-1 tvg-name=茶频道 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title=湖南卫视,茶频道[高清]
+#EXTINF:-1 tvg-name=茶频道 tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg" group-title=湖南卫视,茶频道[高清]
 rtp://239.3.1.165:8001
 
 
@@ -309,13 +309,13 @@ rtp://239.3.1.114:8001
 #EXTINF:-1 tvg-id="801" tvg-name="该频道节目单尚无" group-title=BRTV,朝阳电视台[高清]
 ##rtp://239.3.1.163:8001
 
-#EXTINF:-1 tvg-id="" tvg-name="该频道节目单尚无" group-title=BRTV,通州融媒[高清]
+#EXTINF:-1 tvg-id="" tvg-name="该频道节目单尚无" tvg-logo="http://www.tvyan.com/uploads/dianshi/tongzhoutv.jpg" group-title=BRTV,通州电视台[高清]
 rtp://239.3.1.221:8001
 
-#EXTINF:-1 tvg-id="806" tvg-name="该频道节目单尚无" group-title=BRTV,房山电视台[高清]
+#EXTINF:-1 tvg-id="806" tvg-name="该频道节目单尚无" tvg-logo="http://www.tvyan.com/uploads/dianshi/fangshantv.jpg" group-title=BRTV,房山电视台[高清]
 ##rtp://239.3.1.96:8001
 
-#EXTINF:-1 tvg-id="813" tvg-name="该频道节目单尚无" group-title=BRTV,密云电视台[高清]
+#EXTINF:-1 tvg-id="813" tvg-name="该频道节目单尚无" tvg-logo="http://www.tvyan.com/uploads/dianshi/miyuntv.jpg" group-title=BRTV,密云电视台[高清]
 ##rtp://239.3.1.154:8001
 
 
@@ -521,7 +521,7 @@ rtp://239.3.1.44:8184
 rtp://239.3.1.49:8188
 #http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
 
-#EXTINF:-1 tvg-id="059" tvg-name="该频道节目单尚无",山东教育
+#EXTINF:-1 tvg-id="059" tvg-name="该频道节目单尚无" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdetv.jpg",山东教育
 rtp://239.3.1.52:4120
 
 #EXTINF:-1 tvg-id="060" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
@@ -729,7 +729,7 @@ http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="该频道节目单尚无" tvg-name="" tvg-logo="" group-title="未分类",星空卫视
+#EXTINF:-1 tvg-id="该频道节目单尚无" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xingkongzw.jpg" group-title="未分类",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 tvg-id="该频道节目单尚无" tvg-name="" tvg-logo="" group-title="未分类",C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
