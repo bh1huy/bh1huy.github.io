@@ -18,16 +18,26 @@
 
 | [**卫视**](http://www.tvyan.com/tv/)             |                                                              |                                                           |                                                              |                                                              |                                                             |
 | ---------------------------------------------------------- | :----------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------: |
-| ![btv](http://www.tvyan.com/uploads/dianshi/beijingtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/dongfang.jpg)    | ![btv](http://www.tvyan.com/uploads/dianshi/docutv.jpg)   | ![btv](http://www.tvyan.com/uploads/dianshi/jishirenwen.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/shenzhentv.jpg) |
-| ![btv](http://www.tvyan.com/uploads/dianshi/tianjintv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/chongqingtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/hunantv.jpg)  | ![btv](http://www.tvyan.com/uploads/dianshi/jyjs.jpg)        | ![btv](http://www.tvyan.com/uploads/dianshi/jykt.jpg)        | ![btv](http://www.tvyan.com/uploads/dianshi/klcd.jpg)       |
-| ![btv](http://www.tvyan.com/uploads/dianshi/hebeitv.jpg)   | ![btv](http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/shanxitv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/shandongtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/sxtvs.jpg)        | ![btv](http://www.tvyan.com/uploads/dianshi/anhuitv.jpg)       |
-
+| ![btv](http://www.tvyan.com/uploads/dianshi/beijingtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/tianjintv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/hebeitv.jpg)    | ![btv](http://www.tvyan.com/uploads/dianshi/shanxitv.jpg)| ![btv](http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg) |||
+| ![btv](http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/jilintv.jpg)       | ![btv](http://www.tvyan.com/uploads/dianshi/heilongjiangtv.jpg)       ||||
+| ![btv](http://www.tvyan.com/uploads/dianshi/dongfang.jpg)    | ![btv](http://www.tvyan.com/uploads/dianshi/docutv.jpg)   | ![btv](http://www.tvyan.com/uploads/dianshi/jishirenwen.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/zhejiangtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/jiangxitv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/fujiantv.jpg) |
+| ![btv](http://www.tvyan.com/uploads/dianshi/shandongtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/anhuitv.jpg)       | ![btv](http://www.tvyan.com/uploads/dianshi/jiangsutv.jpg)       |
+| ![btv](http://www.tvyan.com/uploads/dianshi/hunantv.jpg)  | ![btv](http://www.tvyan.com/uploads/dianshi/jyjs.jpg)        | ![btv](http://www.tvyan.com/uploads/dianshi/jykt.jpg)       | ![btv](http://www.tvyan.com/uploads/dianshi/klcd.jpg)       | ![btv](http://www.tvyan.com/uploads/dianshi/hubeitv.jpg)       | ![btv](http://www.tvyan.com/uploads/dianshi/henantv.jpg)       |
+| ![btv](http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/shenzhentv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/guangxitv.jpg) | ![btv](http://www.tvyan.com/uploads/dianshi/hainantv.jpg) |
+| ![btv](http://www.tvyan.com/uploads/dianshi/chongqingtv.jpg)  | ![btv](http://www.tvyan.com/uploads/dianshi/sichuantv.jpg)  | ![btv](http://www.tvyan.com/uploads/dianshi/guizhoutv.jpg)  | ![btv](http://www.tvyan.com/uploads/dianshi/yunnantv.jpg)  | ![btv](http://www.tvyan.com/uploads/dianshi/xizangtv.jpg)  |
+| ![btv](http://www.tvyan.com/uploads/dianshi/sxtvs.jpg)        | ![btv](http://www.tvyan.com/uploads/dianshi/gansutv.jpg)    | ![btv](http://www.tvyan.com/uploads/dianshi/qinghaitv.jpg)        |  ![btv](http://www.tvyan.com/uploads/dianshi/ningxiatv.jpg)        |  ![btv](http://www.tvyan.com/uploads/dianshi/xinjiangtv.jpg)        | 
 
 ##### [香港](http://www.tvyan.com/tai/gang/)
 
 ##### [台湾](http://www.tvyan.com/tai/taiwan/)
 
 ##### [澳门](http://www.tvyan.com/tai/aomen/)
+
+
+
+- 港澳台：香港特别行政区、澳门特别行政区、台湾省
+
+  
 
 
 ```m3u8
