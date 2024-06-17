@@ -1,230 +1,178 @@
-缩写|英文|中文|备注
-:--: | -- | -- | --
-AD|Andorra|安道尔|
-AE|United Arab Emirate|拉伯联合酋长|
-AF|Afghanistan|阿富汗|
-AG|Antigua and Barbuda|安提瓜和巴布达|
-AI|Anguilla|安圭拉|
-AL|Albania|阿尔巴尼亚|
-AM|Armenia|亚美尼亚|
-AO|Angola|安哥拉|
-AR|Argentina|阿根廷|
-AS|AMERICAN SAMOA|美属萨摩亚|
-AT|Austria|奥地利|
-AU|Australia|澳大利亚|
-AW|Aruba|阿鲁巴|
-AX|Aland Islands|奥兰群岛|
-AZ|Azerbaijan|阿塞拜疆|
-BA|Bosnia and Herzegov|波斯尼亚和黑塞哥维那|
-BB|Barbados|巴巴多斯|
-BD|Bangladesh|孟加拉国|
-BE|Belgium|比利时|
-BF|Burkina Faso|布基纳法索|
-BG|Bulgaria|保加利亚|
-BH|Bahrain|巴林|
-BI|Burundi|布隆迪|
-BJ|Benin|贝宁|
-BM|Bermuda|百慕大|
-BN|Brunei Darussalam|文莱|
-BO|Bolivia|玻利维亚|
-BR|Brazil|巴西|
-BS|Bahamas|巴哈马|
-BT|Bhutan|不丹|
-BW|Botswana|博茨瓦纳|
-BY|Belarus|白俄罗斯|
-BZ|Belize|伯利兹|
-CA|Canada|加拿大|
-CD|Congo|刚果|
-CF|Central Africa|中非|
-CG|Congo|刚果|
-CH|Switzerland|瑞士|
-CI|coast D`Ivoire|科特迪瓦|
-CK|The cook islands|库克群岛|
-CL|Chile|智利|
-CM|Cameroon|喀麦隆|
-CN|China|中国|
-CO|Colombia|哥伦比亚|
-CR|Costa rica|哥斯达黎加|
-CU|Cuba|古巴|
-CV|Cape Verde|佛得角|
-CW|Curaao|库拉索|
-CY|Cyprus|塞浦路斯|
-CZ|Czech Repoublic|捷克|
-DE|Germany|德国|
-DJ|Djibouti|吉布提|
-DK|Denmark|丹麦|
-DM|Dominica|多米尼克|
-DO|Dominican Republic|多米尼加共和国|
-DZ|Algeria|阿尔及利亚|
-EC|Ecuador|厄瓜多尔|
-EE|Estonia|爱沙尼亚|
-EG|Egypt|埃及|
-ER|Eritrea|厄立特里亚|
-ES|Spain|西班牙|
-ET|Ethiopia|埃塞俄比亚|
-FI|Finland|芬兰|
-FJ|Fiji|斐济|
-FK|FALKLAND ISLANDS (M|福克兰群岛|
-FM|Federated States of Micronesia|密克罗米西亚联邦|
-FO|Faroe Islands|法罗群岛|
-FR|France|法国|
-GA|Gabon|加蓬|
-GB|United Kingdom|英国|
-GD|Grenada|格林纳达|
-GE|Georgia|格鲁吉亚|
-GF|French Guiana|法属圭亚那|
-GG|GUERNSEY|根西岛|
-GH|Ghana|加纳|
-GI|Gibraltar|直布罗陀|
-GL|Greenland|格陵兰|
-GM|Gambia|冈比亚|
-GN|Guinea|几内亚|
-GP|Guadeloupe|瓜德罗普|
-GQ|Equatorial Guinea|赤道几内亚|
-GR|Greece|希腊|
-GT|Guatemala|危地马拉|
-GU|Guam|关岛|
-GW|Guine-bissau|几内亚比绍|
-GY|Guyana|圭亚那|
-HK|Hong Kong|香港|
-HN|Honduras|洪都拉斯|
-HR|Croatia|克罗地亚|
-HT|Haiti|海地|
-HU|Hungary|匈牙利|
-ID|Indonesia|印度尼西亚|
-IE|Ireland|爱尔兰|
-IL|Israel|以色列|
-IM|Isle of Man|马恩岛|
-IN|India|印度|
-IQ|Iraq|伊拉克|
-IR|Iran|伊朗|
-IS|Iceland|冰岛|
-IT|Italy|意大利|
-JE|JERSEY|泽西岛|
-JM|Jamaica|牙买加|
-JO|Jordan|约旦|
-JP|Japan|日本|
-KE|Kenya|肯尼亚|
-KG|Kyrgyzstan|吉尔吉斯斯坦|
-KH|Cambodia|柬埔寨|
-KI|Kiribati|基里巴斯|
-KM|The comoros|科摩罗|
-KN|Saint Kitts and nev|圣基茨和尼维斯|
-KP|Korea, Democratic Pe|朝鲜|Democratic Pe Korea
-KR|Korea, Republic of|韩国|Republic of Korea
-KW|Kuwait|科威特|
-KY|CAYMAN ISLANDS|开曼群岛|
-KZ|Kazakhstan|哈萨克斯坦|
-LA|Lao people’s democr|老挝人民民主共和国|
-LB|Lebanon|黎巴嫩|
-LC|Saint lucia|圣卢西亚|
-LI|LIECHTENSTEIN|列支敦士登|
-LK|Sri Lanka|斯里兰卡|
-LR|Liberia|利比里亚|
-LS|Kingdom of lesotho|莱索托王国|
-LT|Lithuania|立陶宛|
-LU|Luxembourg|卢森堡|
-LV|Latvia|拉脱维亚|
-LY|利比亚|Libya|
-MA|Morocco|摩洛哥|
-MC|Monaco|摩纳哥|
-MD|Moldova|摩尔多瓦|
-ME|Montenegro|黑山|
-MF|Saint-Martin|法属圣马丁|
-MG|Madagascar|马达加斯加|
-MH|Marshall islands|马绍尔|
-MK|The former yugoslav|前南斯拉夫的马其顿共和国|
-ML|Mali|马里|
-MM|Burma|缅甸|
-MN|Mongol|蒙古国|
-MO|Macau|澳门|
-MQ|MARTINIQUE|马提尼克|
-MR|Mauritania|毛里塔尼亚|
-MS|MONTSERRAT|蒙特塞拉岛|
-MT|Malta|马耳他|
-MU|Mauritius|毛里求斯|
-MV|maldives|马尔代夫|
-MW|Malawi|马拉维|
-MX|Mexico|墨西哥|
-MY|Malaysia|马来西亚|
-MZ|Mozambique|莫桑比克|
-NA|Namibia|纳米比亚|
-NC|New Caledonia|新喀里多尼亚|
-NE|Niger|尼日尔|
-NG|Nigeria|尼日利亚|
-NI|Nicaragua|尼加拉瓜|
-NL|Netherlands|荷兰|
-NO|Norway|挪威|
-NP|Nepal|尼泊尔|
-NR|Nauru|瑙鲁|
-NU|Niue|纽埃|
-NZ|New Zealand|新西兰|
-OM|Oman|阿曼|
-PA|Panama|巴拿马|
-PE|Peru|秘鲁|
-PF|French Polynesia|法属波利尼西亚|
-PG|Papua New Guinea|巴布亚新几内亚|
-PH|Philippines|菲律宾|
-PK|Pakistan|巴基斯坦|
-PL|Poland|波兰|
-PM|St Pierre and Miquelon|圣皮埃尔和密克隆|
-PR|Puerto Rico|波多黎各|
-PS|Palestine|巴勒斯坦|
-PT|Portugal|葡萄牙|
-PW|Belau|帕劳|
-PY|Paraguay|巴拉圭|
-QA|Qatar|卡塔尔|
-RE|Reunion|留尼汪|
-RO|Romania|罗马尼亚|
-RS|Serbia|塞尔维亚|
-RU|Russia|俄罗斯|Russian Federation
-RW|Rwanda|卢旺达|
-SA|Saudi Arabia|沙特阿拉伯|
-SB|Solomon Islands|所罗门群岛|
-SC|Seychells|塞舌尔|
-SD|Sudan|苏丹|
-SE|Sweden|瑞典|
-SG|Singapore|新加坡|
-SI|Slovenia|斯洛文尼亚|
-SK|Slovakia|斯洛伐克|
-SL|Sierra leone|塞拉利昂|
-SM|San Marion|圣马力诺|
-SN|Senegal|塞内加尔|
-SO|Somalia|索马里|
-SR|Suriname|苏里南|
-ST|Sao Tome and Princi|圣多美和普林西比|
-SV|El Salvador|萨尔瓦多|
-SX|Sint Maarteen|荷属圣马丁|
-SY|Syria|叙利亚|
-SZ|Swaziland|斯威士兰|
-TD|Chad|乍得|
-TG|Togo|多哥|
-TH|Thailand|泰国|
-TJ|Tajikistan|塔吉克斯坦|
-TL|East timor|东帝汶|
-TM|Turkmenistan|土库曼斯坦|
-TN|Tunisia|突尼斯|
-TO|Tonga|汤加|
-TR|Turkey|土耳其|
-TT|Trinidad and Tobago|特立尼达和多巴哥|
-TV|Tuvalu|图瓦卢|
-TW|TAIWAN|台湾|Taiwan, Province of China
-TZ|Tanzania|坦桑尼亚|
-UA|Ukraine|乌克兰|
-UG|Uganda|乌干达|
-US|United States|美国|United States of America
-UY|Uruguay|乌拉圭|
-UZ|Uzbekistan|乌兹别克斯坦|
-VC|Saint Vincent and t|圣文森特和格林纳丁斯|
-VE|Venezuela|委内瑞拉|
-VG|British Virgin Isla|英属维尔京群岛|
-VI|VIRGIN ISLANDS, U.S|美属维尔京群岛|
-VN|Viet Nam|越南|
-VU|Vanuatu|瓦努阿图|
-WS|Western Samoa|西萨摩亚|
-XK|Kosovo|科索沃|
-YE|Yemen|也门|
-YT|Mayotte|马约特|
-ZA|South Africa|南非|
-ZM|Zambia|赞比亚|
-ZW|Zimbabwe|津巴布韦|
+### [常用【国旗/地区旗帜】emoji表情](https://emojidaquan.com/category2-country-flags?platform=apple) (共258个)
+
+| ***A*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![AC](https://emoji.emojipic.cn/pic/72/apple/flag-for-ascension-island_1f1e6-1f1e8.png) | ![AD](https://emoji.emojipic.cn/pic/72/apple/flag-for-andorra_1f1e6-1f1e9.png) | ![AE](https://emoji.emojipic.cn/pic/72/apple/flag-for-united-arab-emirates_1f1e6-1f1ea.png) | ![AF](https://emoji.emojipic.cn/pic/72/apple/flag-for-afghanistan_1f1e6-1f1eb.png) | ![AG](https://emoji.emojipic.cn/pic/72/apple/flag-for-antigua-barbuda_1f1e6-1f1ec.png) | ![AI](https://emoji.emojipic.cn/pic/72/apple/flag-for-anguilla_1f1e6-1f1ee.png) | ![AL](https://emoji.emojipic.cn/pic/72/apple/flag-for-albania_1f1e6-1f1f1.png) |
+| [阿森松岛](https://emojidaquan.com/emoji-flag-for-ascension-island) | [安道尔](https://emojidaquan.com/emoji-flag-for-andorra) | [阿拉伯联合<br/>酋长国](https://emojidaquan.com/emoji-flag-for-united-arab-emirates) | [阿富汗](https://emojidaquan.com/emoji-flag-for-afghanistan) | [安提瓜和<br/>巴布达](https://emojidaquan.com/emoji-flag-for-antigua-barbuda) | [安圭拉](https://emojidaquan.com/emoji-flag-for-anguilla) | [阿尔巴尼亚](https://emojidaquan.com/emoji-flag-for-albania) |
+| ![AM](https://emoji.emojipic.cn/pic/72/apple/flag-for-armenia_1f1e6-1f1f2.png) | ![AO](https://emoji.emojipic.cn/pic/72/apple/flag-for-angola_1f1e6-1f1f4.png) | ![AQ](https://emoji.emojipic.cn/pic/72/apple/flag-for-antarctica_1f1e6-1f1f6.png) | ![AR](https://emoji.emojipic.cn/pic/72/apple/flag-for-argentina_1f1e6-1f1f7.png) | ![AS](https://emoji.emojipic.cn/pic/72/apple/flag-for-american-samoa_1f1e6-1f1f8.png) | ![AT](https://emoji.emojipic.cn/pic/72/apple/flag-for-austria_1f1e6-1f1f9.png) | ![AU](https://emoji.emojipic.cn/pic/72/apple/flag-for-australia_1f1e6-1f1fa.png) |
+| [亚美尼亚](https://emojidaquan.com/emoji-flag-for-armenia) | [安哥拉](https://emojidaquan.com/emoji-flag-for-angola) | [南极洲](https://emojidaquan.com/emoji-flag-for-antarctica) | [阿根廷](https://emojidaquan.com/emoji-flag-for-argentina) | [美属萨摩亚](https://emojidaquan.com/emoji-flag-for-american-samoa) | [奥地利](https://emojidaquan.com/emoji-flag-for-austria) | [澳大利亚](https://emojidaquan.com/emoji-flag-for-australia) |
+| ![AW](https://emoji.emojipic.cn/pic/72/apple/flag-for-aruba_1f1e6-1f1fc.png) | ![AX](https://emoji.emojipic.cn/pic/72/apple/flag-for-aland-islands_1f1e6-1f1fd.png) | ![AZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-azerbaijan_1f1e6-1f1ff.png) | | | | |
+| [阿鲁巴](https://emojidaquan.com/emoji-flag-for-aruba) | [奥兰群岛](https://emojidaquan.com/emoji-flag-for-aland-islands) | [阿塞拜疆](https://emojidaquan.com/emoji-flag-for-azerbaijan) | | | | |
+
+
+| ***B***                                                      |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![BA](https://emoji.emojipic.cn/pic/72/apple/flag-for-bosnia-herzegovina_1f1e7-1f1e6.png) | ![BB](https://emoji.emojipic.cn/pic/72/apple/flag-for-barbados_1f1e7-1f1e7.png) | ![BD](https://emoji.emojipic.cn/pic/72/apple/flag-for-bangladesh_1f1e7-1f1e9.png) | ![BE](https://emoji.emojipic.cn/pic/72/apple/flag-for-belgium_1f1e7-1f1ea.png) | ![BF](https://emoji.emojipic.cn/pic/72/apple/flag-for-burkina-faso_1f1e7-1f1eb.png) | ![BG](https://emoji.emojipic.cn/pic/72/apple/flag-for-bulgaria_1f1e7-1f1ec.png) | ![BH](https://emoji.emojipic.cn/pic/72/apple/flag-for-bahrain_1f1e7-1f1ed.png) |
+| [波斯尼亚和<br/>黑塞哥维那](https://emojidaquan.com/emoji-flag-for-bosnia-herzegovina) | [巴巴多斯](https://emojidaquan.com/emoji-flag-for-barbados)  | [孟加拉国](https://emojidaquan.com/emoji-flag-for-bangladesh) | [比利时](https://emojidaquan.com/emoji-flag-for-belgium)     | [布基纳法索](https://emojidaquan.com/emoji-flag-for-burkina-faso) | [保加利亚](https://emojidaquan.com/emoji-flag-for-bulgaria)  | [巴林](https://emojidaquan.com/emoji-flag-for-bahrain)       |
+| ![BI](https://emoji.emojipic.cn/pic/72/apple/flag-for-burundi_1f1e7-1f1ee.png) | ![BJ](https://emoji.emojipic.cn/pic/72/apple/flag-for-benin_1f1e7-1f1ef.png) | ![BL](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-barthelemy_1f1e7-1f1f1.png) | ![BM](https://emoji.emojipic.cn/pic/72/apple/flag-for-bermuda_1f1e7-1f1f2.png) | ![BN](https://emoji.emojipic.cn/pic/72/apple/flag-for-brunei_1f1e7-1f1f3.png) | ![BO](https://emoji.emojipic.cn/pic/72/apple/flag-for-bolivia_1f1e7-1f1f4.png) | ![BQ](https://emoji.emojipic.cn/pic/72/apple/flag-for-caribbean-netherlands_1f1e7-1f1f6.png) |
+| [布隆迪](https://emojidaquan.com/emoji-flag-for-burundi)     | [贝宁](https://emojidaquan.com/emoji-flag-for-benin)         | [圣巴塞莱米](https://emojidaquan.com/emoji-flag-for-st-barthelemy) | [百慕大](https://emojidaquan.com/emoji-flag-for-bermuda)     | [文莱](https://emojidaquan.com/emoji-flag-for-brunei)        | [玻利维亚](https://emojidaquan.com/emoji-flag-for-bolivia)   | [加勒比荷兰](https://emojidaquan.com/emoji-flag-for-caribbean-netherlands) |
+| ![BR](https://emoji.emojipic.cn/pic/72/apple/flag-for-brazil_1f1e7-1f1f7.png) | ![BS](https://emoji.emojipic.cn/pic/72/apple/flag-for-bahamas_1f1e7-1f1f8.png) | ![BT](https://emoji.emojipic.cn/pic/72/apple/flag-for-bhutan_1f1e7-1f1f9.png) | ![BV](https://emoji.emojipic.cn/pic/72/apple/flag-for-bouvet-island_1f1e7-1f1fb.png) | ![BW](https://emoji.emojipic.cn/pic/72/apple/flag-for-botswana_1f1e7-1f1fc.png) | ![BY](https://emoji.emojipic.cn/pic/72/apple/flag-for-belarus_1f1e7-1f1fe.png) | ![BZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-belize_1f1e7-1f1ff.png) |
+| [巴西](https://emojidaquan.com/emoji-flag-for-brazil)        | [巴哈马](https://emojidaquan.com/emoji-flag-for-bahamas)     | [不丹](https://emojidaquan.com/emoji-flag-for-bhutan)        | [布韦岛](https://emojidaquan.com/emoji-flag-for-bouvet-island) | [博茨瓦纳](https://emojidaquan.com/emoji-flag-for-botswana)  | [白俄罗斯](https://emojidaquan.com/emoji-flag-for-belarus)   | [伯利兹](https://emojidaquan.com/emoji-flag-for-belize)      |
+
+| ***C*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![CA](https://emoji.emojipic.cn/pic/72/apple/flag-for-canada_1f1e8-1f1e6.png) | ![CC](https://emoji.emojipic.cn/pic/72/apple/flag-for-cocos-islands_1f1e8-1f1e8.png) | ![CD](https://emoji.emojipic.cn/pic/72/apple/flag-for-congo-kinshasa_1f1e8-1f1e9.png) | ![CF](https://emoji.emojipic.cn/pic/72/apple/flag-for-central-african-republic_1f1e8-1f1eb.png) | ![CG](https://emoji.emojipic.cn/pic/72/apple/flag-for-congo-brazzaville_1f1e8-1f1ec.png) | ![CH](https://emoji.emojipic.cn/pic/72/apple/flag-for-switzerland_1f1e8-1f1ed.png) | ![CI](https://emoji.emojipic.cn/pic/72/apple/flag-for-cote-divoire_1f1e8-1f1ee.png) |
+| [加拿大](https://emojidaquan.com/emoji-flag-for-canada) | [科科斯(基陵)<br/>群岛](https://emojidaquan.com/emoji-flag-for-cocos-islands) | [刚果-(金)<br/>沙萨](https://emojidaquan.com/emoji-flag-for-congo-kinshasa) | [中非共和国](https://emojidaquan.com/emoji-flag-for-central-african-republic) | [刚果-(布)<br/>拉柴维尔](https://emojidaquan.com/emoji-flag-for-congo-brazzaville) | [瑞士](https://emojidaquan.com/emoji-flag-for-switzerland) | [科特迪瓦](https://emojidaquan.com/emoji-flag-for-cote-divoire) |
+| ![CK](https://emoji.emojipic.cn/pic/72/apple/flag-for-cook-islands_1f1e8-1f1f0.png) | ![CL](https://emoji.emojipic.cn/pic/72/apple/flag-for-chile_1f1e8-1f1f1.png) | ![CM](https://emoji.emojipic.cn/pic/72/apple/flag-for-cameroon_1f1e8-1f1f2.png) | ![CN](https://emoji.emojipic.cn/pic/72/apple/flag-for-china_1f1e8-1f1f3.png) | ![CO](https://emoji.emojipic.cn/pic/72/apple/flag-for-colombia_1f1e8-1f1f4.png) | ![CP](https://emoji.emojipic.cn/pic/72/apple/flag-for-clipperton-island_1f1e8-1f1f5.png) | ![CR](https://emoji.emojipic.cn/pic/72/apple/flag-for-costa-rica_1f1e8-1f1f7.png) |
+| [库克群岛](https://emojidaquan.com/emoji-flag-for-cook-islands) | [智利](https://emojidaquan.com/emoji-flag-for-chile) | [喀麦隆](https://emojidaquan.com/emoji-flag-for-cameroon) | [中国](https://emojidaquan.com/emoji-flag-for-china) | [哥伦比亚](https://emojidaquan.com/emoji-flag-for-colombia) | [克利珀顿岛](https://emojidaquan.com/emoji-flag-for-clipperton-island) | [哥斯达黎加](https://emojidaquan.com/emoji-flag-for-costa-rica) |
+| ![CU](https://emoji.emojipic.cn/pic/72/apple/flag-for-cuba_1f1e8-1f1fa.png) | ![CV](https://emoji.emojipic.cn/pic/72/apple/flag-for-cape-verde_1f1e8-1f1fb.png) | ![CW](https://emoji.emojipic.cn/pic/72/apple/flag-for-curacao_1f1e8-1f1fc.png) | ![CX](https://emoji.emojipic.cn/pic/72/apple/flag-for-christmas-island_1f1e8-1f1fd.png) | ![CY](https://emoji.emojipic.cn/pic/72/apple/flag-for-cyprus_1f1e8-1f1fe.png) | ![CZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-czech-republic_1f1e8-1f1ff.png) | |
+| [古巴](https://emojidaquan.com/emoji-flag-for-cuba) | [佛得角](https://emojidaquan.com/emoji-flag-for-cape-verde) | [库拉索岛](https://emojidaquan.com/emoji-flag-for-curacao) | [圣诞岛](https://emojidaquan.com/emoji-flag-for-christmas-island) | [塞浦路斯](https://emojidaquan.com/emoji-flag-for-cyprus) | [捷克](https://emojidaquan.com/emoji-flag-for-czech-republic) | |
+
+| ***D***                                                      |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![DE](https://emoji.emojipic.cn/pic/72/apple/flag-for-germany_1f1e9-1f1ea.png) | ![DG](https://emoji.emojipic.cn/pic/72/apple/flag-for-diego-garcia_1f1e9-1f1ec.png) | ![DJ](https://emoji.emojipic.cn/pic/72/apple/flag-for-djibouti_1f1e9-1f1ef.png) | ![DK](https://emoji.emojipic.cn/pic/72/apple/flag-for-denmark_1f1e9-1f1f0.png) | ![DM](https://emoji.emojipic.cn/pic/72/apple/flag-for-dominica_1f1e9-1f1f2.png) | ![DO](https://emoji.emojipic.cn/pic/72/apple/flag-for-dominican-republic_1f1e9-1f1f4.png) | ![DZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-algeria_1f1e9-1f1ff.png) |
+| [德国](https://emojidaquan.com/emoji-flag-for-germany)       | [迭戈·加西亚](https://emojidaquan.com/emoji-flag-for-diego-garcia) | [吉布提](https://emojidaquan.com/emoji-flag-for-djibouti)    | [丹麦](https://emojidaquan.com/emoji-flag-for-denmark)       | [多米尼克](https://emojidaquan.com/emoji-flag-for-dominica)  | [多米尼加](https://emojidaquan.com/emoji-flag-for-dominican-republic) | [阿尔及利亚](https://emojidaquan.com/emoji-flag-for-algeria) |
+
+  
+
+| ***E*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![EA](https://emoji.emojipic.cn/pic/72/apple/flag-for-ceuta-melilla_1f1ea-1f1e6.png) | ![EC](https://emoji.emojipic.cn/pic/72/apple/flag-for-ecuador_1f1ea-1f1e8.png) | ![EE](https://emoji.emojipic.cn/pic/72/apple/flag-for-estonia_1f1ea-1f1ea.png) | ![EG](https://emoji.emojipic.cn/pic/72/apple/flag-for-egypt_1f1ea-1f1ec.png) | ![EH](https://emoji.emojipic.cn/pic/72/apple/flag-for-western-sahara_1f1ea-1f1ed.png) | ![ER](https://emoji.emojipic.cn/pic/72/apple/flag-for-eritrea_1f1ea-1f1f7.png) | ![ES](https://emoji.emojipic.cn/pic/72/apple/flag-for-spain_1f1ea-1f1f8.png) |
+| [休达及梅利利亚<br>Ceuta&Melilla](https://emojidaquan.com/emoji-flag-for-ceuta-melilla) | [厄瓜多尔](https://emojidaquan.com/emoji-flag-for-ecuador) | [爱沙尼亚](https://emojidaquan.com/emoji-flag-for-estonia) | [埃及](https://emojidaquan.com/emoji-flag-for-egypt) | [西撒哈拉](https://emojidaquan.com/emoji-flag-for-western-sahara) | [厄立特里亚](https://emojidaquan.com/emoji-flag-for-eritrea) | [西班牙](https://emojidaquan.com/emoji-flag-for-spain) |
+| ![ET](https://emoji.emojipic.cn/pic/72/apple/flag-for-ethiopia_1f1ea-1f1f9.png) | ![EU](https://emoji.emojipic.cn/pic/72/apple/flag-for-european-union_1f1ea-1f1fa.png) | | | | | |
+| [埃塞俄比亚](https://emojidaquan.com/emoji-flag-for-ethiopia) | [欧盟](https://emojidaquan.com/emoji-flag-for-european-union) | | | | | |
+
+| ***F*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![FI](https://emoji.emojipic.cn/pic/72/apple/flag-for-finland_1f1eb-1f1ee.png) | ![FJ](https://emoji.emojipic.cn/pic/72/apple/flag-for-fiji_1f1eb-1f1ef.png) | ![FK](https://emoji.emojipic.cn/pic/72/apple/flag-for-falkland-islands_1f1eb-1f1f0.png) | ![FM](https://emoji.emojipic.cn/pic/72/apple/flag-for-micronesia_1f1eb-1f1f2.png) | ![FO](https://emoji.emojipic.cn/pic/72/apple/flag-for-faroe-islands_1f1eb-1f1f4.png) | ![FR](https://emoji.emojipic.cn/pic/72/apple/flag-for-france_1f1eb-1f1f7.png) | |
+|[芬兰](https://emojidaquan.com/emoji-flag-for-finland) | [斐济](https://emojidaquan.com/emoji-flag-for-fiji) | [福克兰群岛](https://emojidaquan.com/emoji-flag-for-falkland-islands) | [密克罗尼西亚](https://emojidaquan.com/emoji-flag-for-micronesia) | [法罗群岛](https://emojidaquan.com/emoji-flag-for-faroe-islands) | [法国](https://emojidaquan.com/emoji-flag-for-france) | |
+
+| ***G*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![GA](https://emoji.emojipic.cn/pic/72/apple/flag-for-gabon_1f1ec-1f1e6.png) | ![GB](https://emoji.emojipic.cn/pic/72/apple/flag-for-united-kingdom_1f1ec-1f1e7.png) | ![GD](https://emoji.emojipic.cn/pic/72/apple/flag-for-grenada_1f1ec-1f1e9.png) | ![GE](https://emoji.emojipic.cn/pic/72/apple/flag-for-georgia_1f1ec-1f1ea.png) | ![GF](https://emoji.emojipic.cn/pic/72/apple/flag-for-french-guiana_1f1ec-1f1eb.png) | ![GG](https://emoji.emojipic.cn/pic/72/apple/flag-for-guernsey_1f1ec-1f1ec.png) | ![GH](https://emoji.emojipic.cn/pic/72/apple/flag-for-ghana_1f1ec-1f1ed.png) |
+| [加蓬](https://emojidaquan.com/emoji-flag-for-gabon) | [英国](https://emojidaquan.com/emoji-flag-for-united-kingdom) | [格林纳达](https://emojidaquan.com/emoji-flag-for-grenada) | [格鲁吉亚](https://emojidaquan.com/emoji-flag-for-georgia) | [法属圭亚那](https://emojidaquan.com/emoji-flag-for-french-guiana) | [根西岛](https://emojidaquan.com/emoji-flag-for-guernsey) | [加纳](https://emojidaquan.com/emoji-flag-for-ghana) |
+| ![GI](https://emoji.emojipic.cn/pic/72/apple/flag-for-gibraltar_1f1ec-1f1ee.png) | ![GL](https://emoji.emojipic.cn/pic/72/apple/flag-for-greenland_1f1ec-1f1f1.png) | ![GM](https://emoji.emojipic.cn/pic/72/apple/flag-for-gambia_1f1ec-1f1f2.png) | ![GN](https://emoji.emojipic.cn/pic/72/apple/flag-for-guinea_1f1ec-1f1f3.png) | ![GP](https://emoji.emojipic.cn/pic/72/apple/flag-for-guadeloupe_1f1ec-1f1f5.png) | ![GQ](https://emoji.emojipic.cn/pic/72/apple/flag-for-equatorial-guinea_1f1ec-1f1f6.png) | ![GR](https://emoji.emojipic.cn/pic/72/apple/flag-for-greece_1f1ec-1f1f7.png) |
+| [直布罗陀](https://emojidaquan.com/emoji-flag-for-gibraltar) | [格陵兰](https://emojidaquan.com/emoji-flag-for-greenland) | [冈比亚](https://emojidaquan.com/emoji-flag-for-gambia) | [几内亚](https://emojidaquan.com/emoji-flag-for-guinea) | [瓜德罗普](https://emojidaquan.com/emoji-flag-for-guadeloupe) | [赤道几内亚](https://emojidaquan.com/emoji-flag-for-equatorial-guinea) | [希腊](https://emojidaquan.com/emoji-flag-for-greece) |
+| ![GS](https://emoji.emojipic.cn/pic/72/apple/flag-for-south-georgia-south-sandwich-islands_1f1ec-1f1f8.png) | ![GT](https://emoji.emojipic.cn/pic/72/apple/flag-for-guatemala_1f1ec-1f1f9.png) | ![GU](https://emoji.emojipic.cn/pic/72/apple/flag-for-guam_1f1ec-1f1fa.png) | ![GW](https://emoji.emojipic.cn/pic/72/apple/flag-for-guinea-bissau_1f1ec-1f1fc.png) | ![GY](https://emoji.emojipic.cn/pic/72/apple/flag-for-guyana_1f1ec-1f1fe.png) | | |
+| [南乔治亚州和<br>南桑威奇群岛](https://emojidaquan.com/emoji-flag-for-south-georgia-south-sandwich-islands) | [危地马拉](https://emojidaquan.com/emoji-flag-for-guatemala) | [关岛](https://emojidaquan.com/emoji-flag-for-guam) | [几内亚比绍](https://emojidaquan.com/emoji-flag-for-guinea-bissau) | [圭亚那](https://emojidaquan.com/emoji-flag-for-guyana) | | |
+
+| ***H*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![HK](https://emoji.emojipic.cn/pic/72/apple/flag-for-hong-kong_1f1ed-1f1f0.png) | ![HM](https://emoji.emojipic.cn/pic/72/apple/flag-for-heard-mcdonald-islands_1f1ed-1f1f2.png) | ![HN](https://emoji.emojipic.cn/pic/72/apple/flag-for-honduras_1f1ed-1f1f3.png) | ![HR](https://emoji.emojipic.cn/pic/72/apple/flag-for-croatia_1f1ed-1f1f7.png) |![HT](https://emoji.emojipic.cn/pic/72/apple/flag-for-haiti_1f1ed-1f1f9.png) | ![HU](https://emoji.emojipic.cn/pic/72/apple/flag-for-hungary_1f1ed-1f1fa.png) | |
+| [中国香港特别<br/>行政区](https://emojidaquan.com/emoji-flag-for-hong-kong) | [赫德和麦克唐纳<br>群岛](https://emojidaquan.com/emoji-flag-for-heard-mcdonald-islands) | [洪都拉斯](https://emojidaquan.com/emoji-flag-for-honduras) | [克罗地亚](https://emojidaquan.com/emoji-flag-for-croatia) | [海地](https://emojidaquan.com/emoji-flag-for-haiti) | [匈牙利](https://emojidaquan.com/emoji-flag-for-hungary) | |
+
+| ***I*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![IC](https://emoji.emojipic.cn/pic/72/apple/flag-for-canary-islands_1f1ee-1f1e8.png) | ![ID](https://emoji.emojipic.cn/pic/72/apple/flag-for-indonesia_1f1ee-1f1e9.png) | ![IE](https://emoji.emojipic.cn/pic/72/apple/flag-for-ireland_1f1ee-1f1ea.png) | ![IL](https://emoji.emojipic.cn/pic/72/apple/flag-for-israel_1f1ee-1f1f1.png) | ![IM](https://emoji.emojipic.cn/pic/72/apple/flag-for-isle-of-man_1f1ee-1f1f2.png) | ![IN](https://emoji.emojipic.cn/pic/72/apple/flag-for-india_1f1ee-1f1f3.png) | ![IO](https://emoji.emojipic.cn/pic/72/apple/flag-for-british-indian-ocean-territory_1f1ee-1f1f4.png) |
+| [加那利群岛](https://emojidaquan.com/emoji-flag-for-canary-islands) | [印度尼西亚](https://emojidaquan.com/emoji-flag-for-indonesia) | [爱尔兰](https://emojidaquan.com/emoji-flag-for-ireland) | [以色列](https://emojidaquan.com/emoji-flag-for-israel) | [马恩岛](https://emojidaquan.com/emoji-flag-for-isle-of-man) | [印度](https://emojidaquan.com/emoji-flag-for-india) | [英属印度洋领土](https://emojidaquan.com/emoji-flag-for-british-indian-ocean-territory) |
+| ![IQ](https://emoji.emojipic.cn/pic/72/apple/flag-for-iraq_1f1ee-1f1f6.png) | ![IR](https://emoji.emojipic.cn/pic/72/apple/flag-for-iran_1f1ee-1f1f7.png) | ![IS](https://emoji.emojipic.cn/pic/72/apple/flag-for-iceland_1f1ee-1f1f8.png) | ![IT](https://emoji.emojipic.cn/pic/72/apple/flag-for-italy_1f1ee-1f1f9.png) | | | |
+|[伊拉克](https://emojidaquan.com/emoji-flag-for-iraq) | [伊朗](https://emojidaquan.com/emoji-flag-for-iran) | [冰岛](https://emojidaquan.com/emoji-flag-for-iceland) | [意大利](https://emojidaquan.com/emoji-flag-for-italy) | | | |
+
+| ***J*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![JE](https://emoji.emojipic.cn/pic/72/apple/flag-for-jersey_1f1ef-1f1ea.png) | ![JM](https://emoji.emojipic.cn/pic/72/apple/flag-for-jamaica_1f1ef-1f1f2.png) | ![JO](https://emoji.emojipic.cn/pic/72/apple/flag-for-jordan_1f1ef-1f1f4.png) | ![JP](https://emoji.emojipic.cn/pic/72/apple/flag-for-japan_1f1ef-1f1f5.png) | | | |
+| [泽西岛](https://emojidaquan.com/emoji-flag-for-jersey) | [牙买加](https://emojidaquan.com/emoji-flag-for-jamaica) | [约旦](https://emojidaquan.com/emoji-flag-for-jordan) | [日本](https://emojidaquan.com/emoji-flag-for-japan) | | | |
+
+| ***K*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![KE](https://emoji.emojipic.cn/pic/72/apple/flag-for-kenya_1f1f0-1f1ea.png) | ![KG](https://emoji.emojipic.cn/pic/72/apple/flag-for-kyrgyzstan_1f1f0-1f1ec.png) | ![KH](https://emoji.emojipic.cn/pic/72/apple/flag-for-cambodia_1f1f0-1f1ed.png) | ![KI](https://emoji.emojipic.cn/pic/72/apple/flag-for-kiribati_1f1f0-1f1ee.png) | ![KM](https://emoji.emojipic.cn/pic/72/apple/flag-for-comoros_1f1f0-1f1f2.png) | ![KN](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-kitts-nevis_1f1f0-1f1f3.png) | ![KP](https://emoji.emojipic.cn/pic/72/apple/flag-for-north-korea_1f1f0-1f1f5.png) |
+|[肯尼亚](https://emojidaquan.com/emoji-flag-for-kenya) | [吉尔吉斯斯坦](https://emojidaquan.com/emoji-flag-for-kyrgyzstan) | [柬埔寨](https://emojidaquan.com/emoji-flag-for-cambodia) | [基里巴斯](https://emojidaquan.com/emoji-flag-for-kiribati) | [科摩罗](https://emojidaquan.com/emoji-flag-for-comoros) | [圣基茨和尼维斯](https://emojidaquan.com/emoji-flag-for-st-kitts-nevis) | [朝鲜](https://emojidaquan.com/emoji-flag-for-north-korea) |
+| ![KR](https://emoji.emojipic.cn/pic/72/apple/flag-for-south-korea_1f1f0-1f1f7.png) | ![KW](https://emoji.emojipic.cn/pic/72/apple/flag-for-kuwait_1f1f0-1f1fc.png) | ![KY](https://emoji.emojipic.cn/pic/72/apple/flag-for-cayman-islands_1f1f0-1f1fe.png) | ![KZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-kazakhstan_1f1f0-1f1ff.png) | | | |
+| [韩国](https://emojidaquan.com/emoji-flag-for-south-korea) | [科威特](https://emojidaquan.com/emoji-flag-for-kuwait) | [开曼群岛](https://emojidaquan.com/emoji-flag-for-cayman-islands) | [哈萨克斯坦](https://emojidaquan.com/emoji-flag-for-kazakhstan) | | | |
+
+| ***L*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![LA](https://emoji.emojipic.cn/pic/72/apple/flag-for-laos_1f1f1-1f1e6.png) | ![LB](https://emoji.emojipic.cn/pic/72/apple/flag-for-lebanon_1f1f1-1f1e7.png) | ![LC](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-lucia_1f1f1-1f1e8.png) | ![LI](https://emoji.emojipic.cn/pic/72/apple/flag-for-liechtenstein_1f1f1-1f1ee.png) | ![LK](https://emoji.emojipic.cn/pic/72/apple/flag-for-sri-lanka_1f1f1-1f1f0.png) | ![LR](https://emoji.emojipic.cn/pic/72/apple/flag-for-liberia_1f1f1-1f1f7.png) |![LS](https://emoji.emojipic.cn/pic/72/apple/flag-for-lesotho_1f1f1-1f1f8.png) |
+[老挝](https://emojidaquan.com/emoji-flag-for-laos) | [黎巴嫩](https://emojidaquan.com/emoji-flag-for-lebanon) | [圣卢西亚](https://emojidaquan.com/emoji-flag-for-st-lucia) | [列支敦士登](https://emojidaquan.com/emoji-flag-for-liechtenstein) | [斯里兰卡](https://emojidaquan.com/emoji-flag-for-sri-lanka) | [利比里亚](https://emojidaquan.com/emoji-flag-for-liberia) | [莱索托](https://emojidaquan.com/emoji-flag-for-lesotho) |
+|![LT](https://emoji.emojipic.cn/pic/72/apple/flag-for-lithuania_1f1f1-1f1f9.png) | ![LU](https://emoji.emojipic.cn/pic/72/apple/flag-for-luxembourg_1f1f1-1f1fa.png) | ![LV](https://emoji.emojipic.cn/pic/72/apple/flag-for-latvia_1f1f1-1f1fb.png) | ![LY](https://emoji.emojipic.cn/pic/72/apple/flag-for-libya_1f1f1-1f1fe.png) | | | |
+|[立陶宛](https://emojidaquan.com/emoji-flag-for-lithuania) | [卢森堡](https://emojidaquan.com/emoji-flag-for-luxembourg) | [拉脱维亚](https://emojidaquan.com/emoji-flag-for-latvia) | [利比亚](https://emojidaquan.com/emoji-flag-for-libya) | | | |
+
+| ***M*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![MA](https://emoji.emojipic.cn/pic/72/apple/flag-for-morocco_1f1f2-1f1e6.png) | ![MC](https://emoji.emojipic.cn/pic/72/apple/flag-for-monaco_1f1f2-1f1e8.png) | ![MD](https://emoji.emojipic.cn/pic/72/apple/flag-for-moldova_1f1f2-1f1e9.png) | ![ME](https://emoji.emojipic.cn/pic/72/apple/flag-for-montenegro_1f1f2-1f1ea.png) | ![MF](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-martin_1f1f2-1f1eb.png) | ![MG](https://emoji.emojipic.cn/pic/72/apple/flag-for-madagascar_1f1f2-1f1ec.png) | ![MH](https://emoji.emojipic.cn/pic/72/apple/flag-for-marshall-islands_1f1f2-1f1ed.png) |
+| [摩洛哥](https://emojidaquan.com/emoji-flag-for-morocco) | [摩纳哥](https://emojidaquan.com/emoji-flag-for-monaco) | [摩尔多瓦](https://emojidaquan.com/emoji-flag-for-moldova) | [黑山](https://emojidaquan.com/emoji-flag-for-montenegro) | [法属圣马丁](https://emojidaquan.com/emoji-flag-for-st-martin) | [马达加斯加](https://emojidaquan.com/emoji-flag-for-madagascar) | [马绍尔群岛](https://emojidaquan.com/emoji-flag-for-marshall-islands) |
+| ![MK](https://emoji.emojipic.cn/pic/72/apple/flag-for-macedonia_1f1f2-1f1f0.png) | ![ML](https://emoji.emojipic.cn/pic/72/apple/flag-for-mali_1f1f2-1f1f1.png) | ![MM](https://emoji.emojipic.cn/pic/72/apple/flag-for-myanmar_1f1f2-1f1f2.png) | ![MN](https://emoji.emojipic.cn/pic/72/apple/flag-for-mongolia_1f1f2-1f1f3.png) | ![MO](https://emoji.emojipic.cn/pic/72/apple/flag-for-macau_1f1f2-1f1f4.png) | ![MP](https://emoji.emojipic.cn/pic/72/apple/flag-for-northern-mariana-islands_1f1f2-1f1f5.png) | ![MQ](https://emoji.emojipic.cn/pic/72/apple/flag-for-martinique_1f1f2-1f1f6.png) |
+| [北马其顿](https://emojidaquan.com/emoji-flag-for-macedonia) | [马里](https://emojidaquan.com/emoji-flag-for-mali) | [缅甸](https://emojidaquan.com/emoji-flag-for-myanmar) | [蒙古](https://emojidaquan.com/emoji-flag-for-mongolia) | [中国澳门特别<br/>行政区](https://emojidaquan.com/emoji-flag-for-macau) | [北马里亚纳<br/>群岛](https://emojidaquan.com/emoji-flag-for-northern-mariana-islands) | [马提尼克](https://emojidaquan.com/emoji-flag-for-martinique) |
+| ![MR](https://emoji.emojipic.cn/pic/72/apple/flag-for-mauritania_1f1f2-1f1f7.png) | ![MS](https://emoji.emojipic.cn/pic/72/apple/flag-for-montserrat_1f1f2-1f1f8.png) | ![MT](https://emoji.emojipic.cn/pic/72/apple/flag-for-malta_1f1f2-1f1f9.png) | ![MU](https://emoji.emojipic.cn/pic/72/apple/flag-for-mauritius_1f1f2-1f1fa.png) | ![MV](https://emoji.emojipic.cn/pic/72/apple/flag-for-maldives_1f1f2-1f1fb.png) | ![MW](https://emoji.emojipic.cn/pic/72/apple/flag-for-malawi_1f1f2-1f1fc.png) | ![MX](https://emoji.emojipic.cn/pic/72/apple/flag-for-mexico_1f1f2-1f1fd.png) |
+| [毛里塔尼亚](https://emojidaquan.com/emoji-flag-for-mauritania) | [蒙特塞拉特](https://emojidaquan.com/emoji-flag-for-montserrat) | [马耳他](https://emojidaquan.com/emoji-flag-for-malta) | [毛里求斯](https://emojidaquan.com/emoji-flag-for-mauritius) | [马尔代夫](https://emojidaquan.com/emoji-flag-for-maldives) | [马拉维](https://emojidaquan.com/emoji-flag-for-malawi) | [墨西哥](https://emojidaquan.com/emoji-flag-for-mexico) |
+| ![MY](https://emoji.emojipic.cn/pic/72/apple/flag-for-malaysia_1f1f2-1f1fe.png) | ![MZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-mozambique_1f1f2-1f1ff.png) | | | | | |
+| [马来西亚](https://emojidaquan.com/emoji-flag-for-malaysia) | [莫桑比克](https://emojidaquan.com/emoji-flag-for-mozambique) | | | | | |
+
+
+| ***N*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![NA](https://emoji.emojipic.cn/pic/72/apple/flag-for-namibia_1f1f3-1f1e6.png) | ![NC](https://emoji.emojipic.cn/pic/72/apple/flag-for-new-caledonia_1f1f3-1f1e8.png) | ![NE](https://emoji.emojipic.cn/pic/72/apple/flag-for-niger_1f1f3-1f1ea.png) | ![NF](https://emoji.emojipic.cn/pic/72/apple/flag-for-norfolk-island_1f1f3-1f1eb.png) | ![NG](https://emoji.emojipic.cn/pic/72/apple/flag-for-nigeria_1f1f3-1f1ec.png) | ![NI](https://emoji.emojipic.cn/pic/72/apple/flag-for-nicaragua_1f1f3-1f1ee.png) | ![NL](https://emoji.emojipic.cn/pic/72/apple/flag-for-netherlands_1f1f3-1f1f1.png) |
+| [纳米比亚](https://emojidaquan.com/emoji-flag-for-namibia) | [新喀里多尼亚](https://emojidaquan.com/emoji-flag-for-new-caledonia) | [尼日尔](https://emojidaquan.com/emoji-flag-for-niger) | [诺福克岛](https://emojidaquan.com/emoji-flag-for-norfolk-island) | [尼日利亚](https://emojidaquan.com/emoji-flag-for-nigeria) | [尼加拉瓜](https://emojidaquan.com/emoji-flag-for-nicaragua) | [荷兰](https://emojidaquan.com/emoji-flag-for-netherlands) |
+| ![NO](https://emoji.emojipic.cn/pic/72/apple/flag-for-norway_1f1f3-1f1f4.png) | ![NP](https://emoji.emojipic.cn/pic/72/apple/flag-for-nepal_1f1f3-1f1f5.png) | ![NR](https://emoji.emojipic.cn/pic/72/apple/flag-for-nauru_1f1f3-1f1f7.png) | ![NU](https://emoji.emojipic.cn/pic/72/apple/flag-for-niue_1f1f3-1f1fa.png) | ![NZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-new-zealand_1f1f3-1f1ff.png) | | |
+| [挪威](https://emojidaquan.com/emoji-flag-for-norway) | [尼泊尔](https://emojidaquan.com/emoji-flag-for-nepal) | [瑙鲁](https://emojidaquan.com/emoji-flag-for-nauru) | [纽埃](https://emojidaquan.com/emoji-flag-for-niue) | [新西兰](https://emojidaquan.com/emoji-flag-for-new-zealand) | | |
+
+
+| ***O*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![OM](https://emoji.emojipic.cn/pic/72/apple/flag-for-oman_1f1f4-1f1f2.png) | | | | | | |
+| [阿曼](https://emojidaquan.com/emoji-flag-for-oman) | | | | | | |
+
+| ***P***                                                      |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![PA](https://emoji.emojipic.cn/pic/72/apple/flag-for-panama_1f1f5-1f1e6.png) | ![PE](https://emoji.emojipic.cn/pic/72/apple/flag-for-peru_1f1f5-1f1ea.png) | ![PF](https://emoji.emojipic.cn/pic/72/apple/flag-for-french-polynesia_1f1f5-1f1eb.png) | ![PG](https://emoji.emojipic.cn/pic/72/apple/flag-for-papua-new-guinea_1f1f5-1f1ec.png) | ![PH](https://emoji.emojipic.cn/pic/72/apple/flag-for-philippines_1f1f5-1f1ed.png) | ![PK](https://emoji.emojipic.cn/pic/72/apple/flag-for-pakistan_1f1f5-1f1f0.png) | ![PL](https://emoji.emojipic.cn/pic/72/apple/flag-for-poland_1f1f5-1f1f1.png) |
+| [巴拿马](https://emojidaquan.com/emoji-flag-for-panama)      | [秘鲁](https://emojidaquan.com/emoji-flag-for-peru)          | [法属波利尼西亚](https://emojidaquan.com/emoji-flag-for-french-polynesia) | [巴布亚新几内亚](https://emojidaquan.com/emoji-flag-for-papua-new-guinea) | [菲律宾](https://emojidaquan.com/emoji-flag-for-philippines) | [巴基斯坦](https://emojidaquan.com/emoji-flag-for-pakistan)  | [波兰](https://emojidaquan.com/emoji-flag-for-poland)        |
+| ![PM](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-pierre-miquelon_1f1f5-1f1f2.png) | ![PN](https://emoji.emojipic.cn/pic/72/apple/flag-for-pitcairn-islands_1f1f5-1f1f3.png) | ![PR](https://emoji.emojipic.cn/pic/72/apple/flag-for-puerto-rico_1f1f5-1f1f7.png) | ![PS](https://emoji.emojipic.cn/pic/72/apple/flag-for-palestinian-territories_1f1f5-1f1f8.png) | ![PT](https://emoji.emojipic.cn/pic/72/apple/flag-for-portugal_1f1f5-1f1f9.png) | ![PW](https://emoji.emojipic.cn/pic/72/apple/flag-for-palau_1f1f5-1f1fc.png) | ![PY](https://emoji.emojipic.cn/pic/72/apple/flag-for-paraguay_1f1f5-1f1fe.png) |
+| [圣皮埃尔和密克隆<br>群岛](https://emojidaquan.com/emoji-flag-for-st-pierre-miquelon) | [皮特凯恩<br/>群岛](https://emojidaquan.com/emoji-flag-for-pitcairn-islands) | [波多黎各](https://emojidaquan.com/emoji-flag-for-puerto-rico) | [巴勒斯坦<br/>领土](https://emojidaquan.com/emoji-flag-for-palestinian-territories) | [葡萄牙](https://emojidaquan.com/emoji-flag-for-portugal)    | [帕劳](https://emojidaquan.com/emoji-flag-for-palau)         | [巴拉圭](https://emojidaquan.com/emoji-flag-for-paraguay)    |
+
+| ***Q*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![QA](https://emoji.emojipic.cn/pic/72/apple/flag-for-qatar_1f1f6-1f1e6.png) | | | | | | |
+| [卡塔尔](https://emojidaquan.com/emoji-flag-for-qatar) | | | | | | |
+
+| ***R*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![RE](https://emoji.emojipic.cn/pic/72/apple/flag-for-reunion_1f1f7-1f1ea.png) | ![RO](https://emoji.emojipic.cn/pic/72/apple/flag-for-romania_1f1f7-1f1f4.png) | ![RS](https://emoji.emojipic.cn/pic/72/apple/flag-for-serbia_1f1f7-1f1f8.png) | ![RU](https://emoji.emojipic.cn/pic/72/apple/flag-for-russia_1f1f7-1f1fa.png) | ![RW](https://emoji.emojipic.cn/pic/72/apple/flag-for-rwanda_1f1f7-1f1fc.png) | | |
+| [留尼汪<br>Réunion](https://emojidaquan.com/emoji-flag-for-reunion) | [罗马尼亚](https://emojidaquan.com/emoji-flag-for-romania) | [塞尔维亚](https://emojidaquan.com/emoji-flag-for-serbia) | [俄罗斯](https://emojidaquan.com/emoji-flag-for-russia) | [卢旺达](https://emojidaquan.com/emoji-flag-for-rwanda) | | |
+
+| ***S***                                                      |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![SA](https://emoji.emojipic.cn/pic/72/apple/flag-for-saudi-arabia_1f1f8-1f1e6.png) | ![SB](https://emoji.emojipic.cn/pic/72/apple/flag-for-solomon-islands_1f1f8-1f1e7.png) | ![SC](https://emoji.emojipic.cn/pic/72/apple/flag-for-seychelles_1f1f8-1f1e8.png) | ![SD](https://emoji.emojipic.cn/pic/72/apple/flag-for-sudan_1f1f8-1f1e9.png) | ![SE](https://emoji.emojipic.cn/pic/72/apple/flag-for-sweden_1f1f8-1f1ea.png) | ![SG](https://emoji.emojipic.cn/pic/72/apple/flag-for-singapore_1f1f8-1f1ec.png) | ![SH](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-helena_1f1f8-1f1ed.png) |
+| [沙特阿拉伯](https://emojidaquan.com/emoji-flag-for-saudi-arabia) | [所罗门群岛](https://emojidaquan.com/emoji-flag-for-solomon-islands) | [塞舌尔](https://emojidaquan.com/emoji-flag-for-seychelles)  | [苏丹](https://emojidaquan.com/emoji-flag-for-sudan)         | [瑞典](https://emojidaquan.com/emoji-flag-for-sweden)        | [新加坡](https://emojidaquan.com/emoji-flag-for-singapore)   | [圣赫勒拿](https://emojidaquan.com/emoji-flag-for-st-helena) |
+| ![SI](https://emoji.emojipic.cn/pic/72/apple/flag-for-slovenia_1f1f8-1f1ee.png) | ![SJ](https://emoji.emojipic.cn/pic/72/apple/flag-for-svalbard-jan-mayen_1f1f8-1f1ef.png) | ![SK](https://emoji.emojipic.cn/pic/72/apple/flag-for-slovakia_1f1f8-1f1f0.png) | ![SL](https://emoji.emojipic.cn/pic/72/apple/flag-for-sierra-leone_1f1f8-1f1f1.png) | ![SM](https://emoji.emojipic.cn/pic/72/apple/flag-for-san-marino_1f1f8-1f1f2.png) | ![SN](https://emoji.emojipic.cn/pic/72/apple/flag-for-senegal_1f1f8-1f1f3.png) | ![SO](https://emoji.emojipic.cn/pic/72/apple/flag-for-somalia_1f1f8-1f1f4.png) |
+| [斯洛文尼亚](https://emojidaquan.com/emoji-flag-for-slovenia) | [斯瓦尔巴和<br/>扬马延](https://emojidaquan.com/emoji-flag-for-svalbard-jan-mayen) | [斯洛伐克](https://emojidaquan.com/emoji-flag-for-slovakia)  | [塞拉利昂](https://emojidaquan.com/emoji-flag-for-sierra-leone) | [圣马力诺](https://emojidaquan.com/emoji-flag-for-san-marino) | [塞内加尔](https://emojidaquan.com/emoji-flag-for-senegal)   | [索马里](https://emojidaquan.com/emoji-flag-for-somalia)     |
+| ![SR](https://emoji.emojipic.cn/pic/72/apple/flag-for-suriname_1f1f8-1f1f7.png) | ![SS](https://emoji.emojipic.cn/pic/72/apple/flag-for-south-sudan_1f1f8-1f1f8.png) | ![ST](https://emoji.emojipic.cn/pic/72/apple/flag-for-sao-tome-principe_1f1f8-1f1f9.png) | ![SV](https://emoji.emojipic.cn/pic/72/apple/flag-for-el-salvador_1f1f8-1f1fb.png) | ![SX](https://emoji.emojipic.cn/pic/72/apple/flag-for-sint-maarten_1f1f8-1f1fd.png) | ![SY](https://emoji.emojipic.cn/pic/72/apple/flag-for-syria_1f1f8-1f1fe.png) | ![SZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-swaziland_1f1f8-1f1ff.png) |
+| [苏里南](https://emojidaquan.com/emoji-flag-for-suriname)    | [南苏丹](https://emojidaquan.com/emoji-flag-for-south-sudan) | [圣汤美和<br/>普林西比](https://emojidaquan.com/emoji-flag-for-sao-tome-principe) | [萨尔瓦多](https://emojidaquan.com/emoji-flag-for-el-salvador) | [荷属圣马丁岛](https://emojidaquan.com/emoji-flag-for-sint-maarten) | [叙利亚](https://emojidaquan.com/emoji-flag-for-syria)       | [斯威士兰<br>Eswatini](https://emojidaquan.com/emoji-flag-for-swaziland) |
+
+| ***T*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![TA](https://emoji.emojipic.cn/pic/72/apple/flag-for-tristan-da-cunha_1f1f9-1f1e6.png) | ![TC](https://emoji.emojipic.cn/pic/72/apple/flag-for-turks-caicos-islands_1f1f9-1f1e8.png) | ![TD](https://emoji.emojipic.cn/pic/72/apple/flag-for-chad_1f1f9-1f1e9.png) | ![TF](https://emoji.emojipic.cn/pic/72/apple/flag-for-french-southern-territories_1f1f9-1f1eb.png) | ![TG](https://emoji.emojipic.cn/pic/72/apple/flag-for-togo_1f1f9-1f1ec.png) | ![TH](https://emoji.emojipic.cn/pic/72/apple/flag-for-thailand_1f1f9-1f1ed.png) | ![TJ](https://emoji.emojipic.cn/pic/72/apple/flag-for-tajikistan_1f1f9-1f1ef.png) |
+| [特里斯坦-达库尼亚<br>群岛](https://emojidaquan.com/emoji-flag-for-tristan-da-cunha) | [特克斯和凯科斯<br>群岛](https://emojidaquan.com/emoji-flag-for-turks-caicos-islands) | [乍得](https://emojidaquan.com/emoji-flag-for-chad) | [法国南部领土](https://emojidaquan.com/emoji-flag-for-french-southern-territories) | [多哥](https://emojidaquan.com/emoji-flag-for-togo) | [泰国](https://emojidaquan.com/emoji-flag-for-thailand) | [塔吉克斯坦](https://emojidaquan.com/emoji-flag-for-tajikistan) |
+| ![TK](https://emoji.emojipic.cn/pic/72/apple/flag-for-tokelau_1f1f9-1f1f0.png) | ![TL](https://emoji.emojipic.cn/pic/72/apple/flag-for-timor-leste_1f1f9-1f1f1.png) | ![TM](https://emoji.emojipic.cn/pic/72/apple/flag-for-turkmenistan_1f1f9-1f1f2.png) | ![TN](https://emoji.emojipic.cn/pic/72/apple/flag-for-tunisia_1f1f9-1f1f3.png) | ![TO](https://emoji.emojipic.cn/pic/72/apple/flag-for-tonga_1f1f9-1f1f4.png) | ![TR](https://emoji.emojipic.cn/pic/72/apple/flag-for-turkey_1f1f9-1f1f7.png) | ![TT](https://emoji.emojipic.cn/pic/72/apple/flag-for-trinidad-tobago_1f1f9-1f1f9.png) |
+| [托克劳](https://emojidaquan.com/emoji-flag-for-tokelau) | [东帝汶](https://emojidaquan.com/emoji-flag-for-timor-leste) | [土库曼斯坦](https://emojidaquan.com/emoji-flag-for-turkmenistan) | [突尼斯](https://emojidaquan.com/emoji-flag-for-tunisia) | [汤加](https://emojidaquan.com/emoji-flag-for-tonga) | [土耳其](https://emojidaquan.com/emoji-flag-for-turkey) | [特立尼达和<br>多巴哥](https://emojidaquan.com/emoji-flag-for-trinidad-tobago) |
+| ![TV](https://emoji.emojipic.cn/pic/72/apple/flag-for-tuvalu_1f1f9-1f1fb.png) | ![TW](https://emoji.emojipic.cn/pic/72/apple/flag-for-taiwan_1f1f9-1f1fc.png) | ![TZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-tanzania_1f1f9-1f1ff.png) | | | | |
+| [图瓦卢](https://emojidaquan.com/emoji-flag-for-tuvalu) | [中国台湾省](https://emojidaquan.com/emoji-flag-for-taiwan) | [坦桑尼亚](https://emojidaquan.com/emoji-flag-for-tanzania) | | | | |
+
+| ***U*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![UA](https://emoji.emojipic.cn/pic/72/apple/flag-for-ukraine_1f1fa-1f1e6.png) | ![UG](https://emoji.emojipic.cn/pic/72/apple/flag-for-uganda_1f1fa-1f1ec.png) | ![UM](https://emoji.emojipic.cn/pic/72/apple/flag-for-us-outlying-islands_1f1fa-1f1f2.png) | ![UN](https://emoji.emojipic.cn/pic/72/apple/flag-for-united-nations_1f1fa-1f1f3.png) | ![US](https://emoji.emojipic.cn/pic/72/apple/flag-for-united-states_1f1fa-1f1f8.png) | ![UY](https://emoji.emojipic.cn/pic/72/apple/flag-for-uruguay_1f1fa-1f1fe.png) | ![UZ](https://emoji.emojipic.cn/pic/72/apple/flag-for-uzbekistan_1f1fa-1f1ff.png) |
+| [乌克兰](https://emojidaquan.com/emoji-flag-for-ukraine) | [乌干达](https://emojidaquan.com/emoji-flag-for-uganda) | [美国离岛](https://emojidaquan.com/emoji-flag-for-us-outlying-islands) | [联合国](https://emojidaquan.com/emoji-flag-for-united-nations) | [美国](https://emojidaquan.com/emoji-flag-for-united-states) | [乌拉圭](https://emojidaquan.com/emoji-flag-for-uruguay) | [乌兹别克斯坦](https://emojidaquan.com/emoji-flag-for-uzbekistan) |
+
+| ***V***                                                      |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![VA](https://emoji.emojipic.cn/pic/72/apple/flag-for-vatican-city_1f1fb-1f1e6.png) | ![VC](https://emoji.emojipic.cn/pic/72/apple/flag-for-st-vincent-grenadines_1f1fb-1f1e8.png) | ![VE](https://emoji.emojipic.cn/pic/72/apple/flag-for-venezuela_1f1fb-1f1ea.png) | ![VG](https://emoji.emojipic.cn/pic/72/apple/flag-for-british-virgin-islands_1f1fb-1f1ec.png) | ![VI](https://emoji.emojipic.cn/pic/72/apple/flag-for-us-virgin-islands_1f1fb-1f1ee.png) | ![VN](https://emoji.emojipic.cn/pic/72/apple/flag-for-vietnam_1f1fb-1f1f3.png) | ![VU](https://emoji.emojipic.cn/pic/72/apple/flag-for-vanuatu_1f1fb-1f1fa.png) |
+| [梵蒂冈城](https://emojidaquan.com/emoji-flag-for-vatican-city) | [圣文森特和<br>格林纳丁斯](https://emojidaquan.com/emoji-flag-for-st-vincent-grenadines) | [委内瑞拉](https://emojidaquan.com/emoji-flag-for-venezuela) | [英属维尔京<br/>群岛](https://emojidaquan.com/emoji-flag-for-british-virgin-islands) | [美属维尔京<br/>群岛](https://emojidaquan.com/emoji-flag-for-us-virgin-islands) | [越南](https://emojidaquan.com/emoji-flag-for-vietnam)       | [瓦努阿图](https://emojidaquan.com/emoji-flag-for-vanuatu)   |
+
+| ***W*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![WF](https://emoji.emojipic.cn/pic/72/apple/flag-for-wallis-futuna_1f1fc-1f1eb.png) | ![WS](https://emoji.emojipic.cn/pic/72/apple/flag-for-samoa_1f1fc-1f1f8.png) | | | | | |
+| [瓦利斯和<br>富图纳](https://emojidaquan.com/emoji-flag-for-wallis-futuna) | [萨摩亚](https://emojidaquan.com/emoji-flag-for-samoa) | | | | | |
+
+| ***X*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![XK](https://emoji.emojipic.cn/pic/72/apple/flag-for-kosovo_1f1fd-1f1f0.png) | | | | | | |
+| [科索沃](https://emojidaquan.com/emoji-flag-for-kosovo) | | | | | | |
+
+| ***Y*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![YE](https://emoji.emojipic.cn/pic/72/apple/flag-for-yemen_1f1fe-1f1ea.png) | ![YT](https://emoji.emojipic.cn/pic/72/apple/flag-for-mayotte_1f1fe-1f1f9.png) | | | | | |
+| [也门](https://emojidaquan.com/emoji-flag-for-yemen) | [马约特](https://emojidaquan.com/emoji-flag-for-mayotte) | | | | | |
+
+| ***Z*** |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![ZA](https://emoji.emojipic.cn/pic/72/apple/flag-for-south-africa_1f1ff-1f1e6.png) | ![ZM](https://emoji.emojipic.cn/pic/72/apple/flag-for-zambia_1f1ff-1f1f2.png) | ![ZW](https://emoji.emojipic.cn/pic/72/apple/flag-for-zimbabwe_1f1ff-1f1fc.png) | | | | |
+| [南非](https://emojidaquan.com/emoji-flag-for-south-africa) | [赞比亚](https://emojidaquan.com/emoji-flag-for-zambia) | [津巴布韦](https://emojidaquan.com/emoji-flag-for-zimbabwe) | | | | |
