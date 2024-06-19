@@ -9,15 +9,15 @@
 
 #### 二、插件库
 
-| 名称                   | 插件库                                         | 说明                                                         |
-| ---------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| `Kodinerds Addon Repo` | https://repo.kodinerds.net/                    | 一款国外的Kodi插件库，作为官网插件的补充，可挑选自己喜欢的插件安装。 |
-| `Super Repo`           | http://srp.nu                                  |                                                              |
-| `ALiYun Addons Repo`   | https://mirrors.aliyun.com/xbmc/addons/        | 阿里云插件库                                                 |
-| `Jellyfin Repo`        | https://kodi.jellyfin.org                      | Jellyfin官方插件库                                           |
-| `EMBY Repo`            | http://kodi.emby.media/                        | EMBY官方插件库                                               |
-| `OpenVPN Repo`         | http://troypoint.com/repo                      |                                                              |
-| `BH1HUY on Gitee Repo` | https://gitee.com/bh1huy/htpc/raw/master/kodi/ |                                                              |
+| 名称                    | 插件库                                  | 说明                                                         |
+| ----------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| `Kodinerds Addon Repo`  | https://repo.kodinerds.net/             | 一款国外的Kodi插件库，作为官网插件的补充，可挑选自己喜欢的插件安装。 |
+| `Super Repo`            | http://srp.nu                           | [superrepo.kodi.jarvis.all-0.7.04.zip](./Jarvis/superrepo.kodi.jarvis.all-0.7.04.zip) |
+| `ALiYun Addons Repo`    | https://mirrors.aliyun.com/xbmc/addons/ | 阿里云插件库                                                 |
+| `Jellyfin Repo`         | https://kodi.jellyfin.org               | Jellyfin官方插件库                                           |
+| `EMBY Repo`             | http://kodi.emby.media/                 | EMBY官方插件库                                               |
+| `OpenVPN Repo`          | http://troypoint.com/repo               | [service.vpn.manager_6.4.3.zip](./Jarvis/service.vpn.manager_6.4.3.zip) |
+| `BH1HUY on Github Repo` | https://bh1huy.github.io/               |                                                              |
 
 #### 三、插件
 
