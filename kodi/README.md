@@ -37,3 +37,44 @@
 | [`Emby`](http://www.kodiplayer.cn/plugins/2894.html)         | 一款类似Plex的媒体服务平台，统一管理视频音乐照片等多媒体文件，它有最强大的影片搜刮能力，并且可以非常便捷远程维护其媒体库。<br>Emby客户端解码转码使用的是服务器资源，不如Kodi作为播放器解码更强。而且Emby硬件转码收费，手机客户端收费，使用Emby for Kodi插件能绕过收费。Emby插件可让您直接在Kodi中浏览和播放Emby服务器中的媒体文件。<br>Emby需要设置一个服务器端(在存放电影文件的设备上安装)，支持windows、nas、linux、mac等。下载地址：https://emby.media/download.html | 数据源                                                       |
 | **[`tinyMediaManager`](http://www.kodiplayer.cn/course/2945.html)** | 用Java/Swing编写的媒体管理工具，能够为Kodi、jellyfin、emby、Plex媒体服务器提供元数据。tinyMediaManager的原理是根据文件的标题到电影资料网站上匹配电影信息，下载电影的资料及图片到本地上，供Kodi、jellyfin、emby、plex等多媒体软件使用。<br/>建议下载version 3.x系列，version 4.x免费版只能管理50部。<br/>推荐选择刮削源为“themoviedb.org”（有片名、介绍的中文翻译）；近期themoviedb服务器经常无法连接，修改域名解析可解决。访问https://dnschecker.org/#A/api.themoviedb.org 及https://dnschecker.org/#A/image.themoviedb.org 查询国内可用IP。找到电脑C:\Windows\System32\drivers\etc\hosts文件，编辑添加IP记录，例如：<br/>52.222.158.31 image.tmdb.org<br/>52.222.174.75 api.tmdb.org | 数据源                                                       |
 
+---
+
+#### [插件库镜像更新发布地址](http://blog.sina.com.cn/s/blog_65637f130102yx9i.html)
+
+##### 背景
+
+近期，因为众所周知的原因，Kodi用户无法连接到官方插件库进行插件更新，因此，我尝试寻找国内可供更新的镜像源，然后找到国内有4家开源镜像站点提供Kodi官方镜像，因此，写了插件来供大家用于替换官方插件库。
+
+##### 说明
+
+1. 本插件是一个库，提供官方插件库在国内的4个开源站的镜像下载，这些镜像站点每日同步官方库中全部插件内容。通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。
+2. 请自行根据Kodi主程序的版本从四个镜像站点任选其一安装即可，无需安装多个。以下是关于文件名的说明：
+   - 文件名中带leia的用于Kodi主程序v18.x
+   - 文件名中带krypton的用于Kodi主程序v17.x
+   - cnnic：从中国互联网络信息中心开源镜像站更新
+   - nju：从南京大学开源镜像站更新
+   - thu：从清华大学开源镜像站更新
+   - ustc：从中国科学技术大学开源镜像站更新
+3. 官方插件库中没有的插件当然也就无法通过这些镜像站安装和更新，非官方插件库中的插件有任何问题也无法通过这个插件解决。
+4. 如何离线安装插件请[查阅](http://blog.sina.com.cn/s/blog_65637f130102yx9j.html)
+5. 有任何问题请在这篇博文下[留言反馈](http://blog.sina.com.cn/s/blog_65637f130102yx9i.html)
+
+##### 可解决的近期问题
+
+- 无法切换中文语言界面，详细[解决办法](http://blog.sina.com.cn/s/blog_65637f130102yx9l.html)
+- 无法更新官方插件
+- 因使用官方刮削器插件而出现的无法刮削的问题
+
+##### 更新日志
+
+- [B]Version 0.0.2[/B]
+
+  - 将安装源从HTTP模式切换至HTTPS模式.
+  - 更新插件描述.
+  - 更改图标为官方库图标.
+  - [B]Version 0.0.1[/B]
+  - 创建本项目.
+
+---
+
+**下载链接**：https://pan.baidu.com/s/1P8BD_nkOLvFFP61E2__cdQ 提取码：r92g
