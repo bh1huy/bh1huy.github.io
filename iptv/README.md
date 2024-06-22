@@ -10,6 +10,10 @@
 4. [wuwentao](https://github.com/wuwentao)/**[bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv)**：北京联通IPTV播放列表 Beijing Unicom IPTV playlist
 5. [homenet6](https://github.com/homenet6)/**[homenet6.github.io](https://github.com/homenet6/homenet6.github.io)**：家庭网络资源分享(HomeNet)
 6. [zzlab2018](https://github.com/zzlab2018)/**[live](https://github.com/zzlab2018/live)**：直播源
+7. [qwerttvv](https://github.com/qwerttvv)/[Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)：最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
+8. [joevess](https://github.com/joevess)/[IPTV](https://github.com/joevess/IPTV)：IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+9. [HerbertHe](https://github.com/HerbertHe)/[iptv-sources](https://github.com/HerbertHe/iptv-sources)：Autoupdate iptv sources。[m3u.ibert.me/](https://m3u.ibert.me/)
+10. [Free-TV](https://github.com/Free-TV)/[IPTV](https://github.com/Free-TV/IPTV)：M3U Playlist for free TV channels
 
 #### 直播源网站列表
 
